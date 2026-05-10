@@ -79,43 +79,27 @@ const mukund = {
 
 # 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 <a href="https://github.com/octotat-bot/habitflow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=habitflow&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=octotat-bot&repo=habitflow&theme=tokyonight" />
 </a>
-
-</td>
-
-<td width="50%">
 
 <a href="https://github.com/octotat-bot/ember">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=ember&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=octotat-bot&repo=ember&theme=tokyonight" />
 </a>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+<br/><br/>
 
 <a href="https://github.com/octotat-bot/Ops-Pilot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=Ops-Pilot&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=octotat-bot&repo=Ops-Pilot&theme=tokyonight" />
 </a>
-
-</td>
-
-<td width="50%">
 
 <a href="https://github.com/octotat-bot/balancio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=balancio&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=octotat-bot&repo=balancio&theme=tokyonight" />
 </a>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
