@@ -175,4 +175,13 @@ I turn coffee ☕ into responsive web apps 🚀
 
 </div>
 ````
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=octotat-bot&theme=tokyo-night&hide_border=true&bg_color=1a1b27" />
+
+</div>
 
