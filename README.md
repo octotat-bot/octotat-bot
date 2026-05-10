@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a1b27,50:1f2335,100:24283b&text=Mukund%20Mangla&fontSize=50&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e293b,100:111827&text=Mukund%20Mangla&fontSize=55&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=Frontend+Developer;React+Developer;Building+Creative+Web+Apps;Open+Source+Learner;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=1000&lines=AI+%26+Full+Stack+Developer;Building+LLM+Apps+%26+AI+Agents;System+Design+%26+Scalable+Architectures;FastAPI+%7C+React+%7C+Next.js+%7C+MongoDB;Always+Learning+Something+New" />
 
 <br/>
 
@@ -14,19 +14,41 @@
 
 # 💫 About Me
 
-```js
-const mukund = {
-    education: "B.Tech CSE @ Newton School of Technology",
-    currentlyLearning: ["React", "JavaScript", "Frontend Development"],
-    interests: ["UI/UX", "Creative Coding", "Web Apps"],
-    projects: [
-        "Notora",
-        "Finance Tracker",
-        "Resume Generator",
-        "Crypto Tracker"
-    ],
-    lifePhilosophy: "Build. Learn. Improve. Repeat."
-};
+```python
+class MukundMangla:
+
+    def __init__(self):
+        self.role = "AI & Full Stack Developer"
+        self.education = "B.Tech CSE @ Newton School of Technology"
+
+        self.current_focus = [
+            "LLM Applications",
+            "AI Agents",
+            "RAG Systems",
+            "System Design",
+            "Backend Architecture"
+        ]
+
+        self.tech_stack = [
+            "Python",
+            "FastAPI",
+            "React",
+            "Next.js",
+            "MongoDB",
+            "PostgreSQL"
+        ]
+
+        self.interests = [
+            "Scalable Systems",
+            "AI Infrastructure",
+            "Automation",
+            "Cloud & DevOps"
+        ]
+
+    def life_philosophy(self):
+        return "Build impactful systems. Learn continuously."
+
+me = MukundMangla()
 ```
 
 ---
