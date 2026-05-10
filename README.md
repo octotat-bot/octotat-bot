@@ -79,25 +79,43 @@ const mukund = {
 
 # 🌟 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
 <a href="https://github.com/octotat-bot/habitflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=habitflow&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=habitflow&theme=tokyonight&hide_border=true" />
 </a>
+
+</td>
+
+<td width="50%">
 
 <a href="https://github.com/octotat-bot/ember">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=ember&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=ember&theme=tokyonight&hide_border=true" />
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 <a href="https://github.com/octotat-bot/Ops-Pilot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=Ops-Pilot&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=Ops-Pilot&theme=tokyonight&hide_border=true" />
 </a>
+
+</td>
+
+<td width="50%">
 
 <a href="https://github.com/octotat-bot/balancio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=balancio&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=balancio&theme=tokyonight&hide_border=true" />
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
