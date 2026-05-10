@@ -35,7 +35,7 @@ const mukund = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,firebase,mysql,figma,pandas,numpy,mongodb,typescript,node.js,express.js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,firebase,mysql,figma,mongodb,typescript,node.js,express.js&theme=dark" />
 
 </div>
 
@@ -47,7 +47,7 @@ const mukund = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=octotat-bot&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=octotat-bot&show_icons=true&theme=tokyonight" />
 
 <br/><br/>
 
