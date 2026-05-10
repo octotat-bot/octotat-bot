@@ -43,13 +43,15 @@ const mukund = {
 
 # 📊 GitHub Stats
 
+
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=octotat-bot&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api?username=octotat-bot&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octotat-bot&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octotat-bot&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
