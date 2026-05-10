@@ -35,26 +35,31 @@ const mukund = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,express,mongodb,typescript,github,figma,vscode,fastapi,postman,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,kubernetes,aws,fastapi,github,figma,vscode,postman,pytorch,tensorflow&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_DBs-0A0A0A?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AI_Agents-1F6FEB?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LLM_Apps-7C3AED?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-EC4899?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Design-232F3E?style=for-the-badge" />
 
 </div>
-
 ---
 
 # 📊 GitHub Stats
