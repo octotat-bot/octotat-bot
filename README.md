@@ -35,7 +35,23 @@ const mukund = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode,firebase,mysql,figma,mongodb,typescript,node.js,express.js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,express,mongodb,typescript,github,figma,vscode,fastapi,postman,nextjs&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </div>
 
