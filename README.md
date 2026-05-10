@@ -174,7 +174,7 @@ I turn coffee ☕ into responsive web apps 🚀
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a1b27,50:1f2335,100:24283b"/>
 
 </div>
-````
+
 ---
 
 
