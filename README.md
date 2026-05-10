@@ -107,19 +107,20 @@ const mukund = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,docker,kubernetes,aws,nodejs&theme=dark" />
 
 </div>
 
 <br/>
 
-- ⚡ Advanced React Concepts
-- 🎨 Modern UI/UX Design
-- 🌐 Frontend Architecture
-- 📱 Responsive Web Development
-- 🔥 Performance Optimization
-- Generative Ai
-
+- 🤖 Generative AI & LLM Applications
+- 🧠 AI Agents & Automation Systems
+- ⚙️ DevOps & Cloud Infrastructure
+- ☸️ Docker & Kubernetes
+- 🏗️ Scalable System Design
+- 🔥 Backend Architecture & APIs
+- 📊 Distributed Systems Concepts
+- 🚀 Production-Grade Deployment Pipelines
 ---
 
 # 🏆 GitHub Trophies
