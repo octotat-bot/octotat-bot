@@ -116,6 +116,7 @@ const mukund = {
 - 🌐 Frontend Architecture
 - 📱 Responsive Web Development
 - 🔥 Performance Optimization
+- Generative Ai
 
 ---
 
@@ -141,9 +142,6 @@ const mukund = {
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://twitter.com">
-  <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
 
 </div>
 
