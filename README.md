@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a1b27,50:1f2335,100:24283b&text=Mukund%20Mangla&fontSize=50&fontColor=7aa2f7&animation=fadeIn&fontAlignY=38" />
@@ -177,29 +176,3 @@ I turn coffee ☕ into responsive web apps 🚀
 </div>
 ````
 
----
-
-## Final Setup Steps
-
-1. Open your GitHub profile.
-2. Create a repository named:
-
-```txt
-octotat-bot
-```
-
-3. Open the `README.md` file.
-4. Delete everything.
-5. Paste the code above.
-6. Commit changes.
-7. Visit your profile.
-
-Your premium Tokyo Night GitHub profile will be live.
-
----
-
-## Optional Advanced Upgrade
-
-For animated snake contribution graph later:
-
-[https://github.com/Platane/snk](https://github.com/Platane/snk)
