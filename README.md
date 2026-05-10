@@ -81,20 +81,20 @@ const mukund = {
 
 <div align="center">
 
-<a href="https://github.com/octotat-bot/Notora">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=Notora&theme=tokyonight&hide_border=true&border_radius=15" />
+<a href="https://github.com/octotat-bot/habitflow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=habitflow&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
-<a href="https://github.com/octotat-bot/finance-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=finance-tracker&theme=tokyonight&hide_border=true&border_radius=15" />
+<a href="https://github.com/octotat-bot/ember">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=ember&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
-<a href="https://github.com/octotat-bot/resume-generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=resume-generator&theme=tokyonight&hide_border=true&border_radius=15" />
+<a href="https://github.com/octotat-bot/Ops-Pilot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=Ops-Pilot&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
-<a href="https://github.com/octotat-bot/crypto-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=crypto-tracker&theme=tokyonight&hide_border=true&border_radius=15" />
+<a href="https://github.com/octotat-bot/balancio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=octotat-bot&repo=balancio&theme=tokyonight&hide_border=true&border_radius=15" />
 </a>
 
 </div>
