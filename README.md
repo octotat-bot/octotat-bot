@@ -27,7 +27,7 @@ The numbers match the citations at the top. Select a card to open the repo.
   <a href="https://github.com/octotat-bot/Marginalia"><img src="assets/marginalia.svg" width="49%" alt="Marginalia. PDF answers with page citations, and a refusal when the page has no answer."></a>
   <a href="https://github.com/octotat-bot/aml-dl-project"><img src="assets/water.svg" width="49%" alt="Water quality. Compares three models on river stations they have never seen, across 10 splits."></a>
   <a href="https://github.com/octotat-bot/DreamSignal"><img src="assets/dreamsignal.svg" width="49%" alt="DreamSignal. Turns a spoken dream into a transcript, analysis and patterns, streamed live."></a>
-  <a href="https://github.com/octotat-bot/intern-skillorbit"><img src="assets/resume.svg" width="49%" alt="Smart Resume Analyzer. Scores a resume against a role, and shows the evidence behind every point."></a>
+  <a href="https://github.com/octotat-bot/smart-resume-analyzer"><img src="assets/resume.svg" width="49%" alt="Smart Resume Analyzer. Scores a resume against a role, and shows the evidence behind every point."></a>
   <a href="https://github.com/octotat-bot/TrailBoard"><img src="assets/trailboard.svg" width="49%" alt="Trailboard. A whiteboard where drags, recolours and typing all survive at the same time."></a>
 </p>
 
