@@ -48,7 +48,7 @@ The numbers match the citations at the top. Select a card to open the repo.
 
 - [Grief Companion](https://github.com/octotat-bot/grief-companion): helps people write difficult messages
 - [Ember](https://github.com/octotat-bot/ember): real-time restaurant operations
-- [Balancio](https://github.com/octotat-bot/balancio): shared expenses with debt simplification
+- [Balancio](https://github.com/octotat-bot/balancio): shared expenses with real-time sync
 - [HabitFlow](https://github.com/octotat-bot/habitflow): habit tracking with mood analytics
 - [PlaceNext](https://github.com/octotat-bot/PlaceNext): campus placement management
 - [Ops-Pilot](https://github.com/octotat-bot/Ops-Pilot): approvals and internal requests
