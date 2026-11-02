@@ -1,7 +1,7 @@
 <a href="#selected-work"><img src="assets/hero.svg" width="100%" alt="Mukund Mangla. LLM and ML systems whose answers you can check. Computer science, class of 2028. Open to internships."></a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mukundmangla"><img src="https://img.shields.io/badge/LinkedIn-141A45?style=for-the-badge&logo=linkedin&logoColor=7FB0FF" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/mukundmangla"><img src="https://img.shields.io/badge/LinkedIn-141A45?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzdGQjBGRiIgZD0iTTQuOTggMy41QTIuNSAyLjUgMCAxIDEgMCAzLjVhMi41IDIuNSAwIDAgMSA0Ljk4IDB6TS4zIDhoNC40djE0SC4zek03LjUgOGg0LjJ2MS45aC4xYy42LTEuMSAyLTIuMyA0LjItMi4zIDQuNSAwIDUuMyAzIDUuMyA2LjhWMjJoLTQuNHYtNi43YzAtMS42IDAtMy43LTIuMi0zLjdzLTIuNiAxLjctMi42IDMuNlYyMkg3LjV6Ii8+PC9zdmc+" alt="LinkedIn"></a>
   <a href="mailto:manglamukund123@gmail.com"><img src="https://img.shields.io/badge/Email-141A45?style=for-the-badge&logo=gmail&logoColor=FF5C7A" alt="Email"></a>
   <a href="https://leetcode.com/u/Hakka123/"><img src="https://img.shields.io/badge/LeetCode-141A45?style=for-the-badge&logo=leetcode&logoColor=FFC72C" alt="LeetCode"></a>
   <a href="https://repetiteapp.github.io/repetite-app/"><img src="https://img.shields.io/badge/Repetite-141A45?style=for-the-badge&logo=apple&logoColor=27D3B8" alt="Repetite website"></a>
@@ -30,8 +30,6 @@ The numbers match the citations at the top. Select a card to open the repo.
   <a href="https://github.com/octotat-bot/intern-skillorbit"><img src="assets/resume.svg" width="49%" alt="Smart Resume Analyzer. Scores a resume against a role, and shows the evidence behind every point."></a>
   <a href="https://github.com/octotat-bot/TrailBoard"><img src="assets/trailboard.svg" width="49%" alt="Trailboard. A whiteboard where drags, recolours and typing all survive at the same time."></a>
 </p>
-
-## How it all connects
 
 <img src="assets/map.svg" width="100%" alt="Transit map of projects. LLM and retrieval line: Grief Companion, Smart Resume Analyzer, Marginalia, RepoMind, DreamSignal, Repetite. Full stack line: HabitFlow, PlaceNext, Balancio, Ember, Trailboard, DreamSignal. Machine learning line: Water quality, DreamSignal.">
 
